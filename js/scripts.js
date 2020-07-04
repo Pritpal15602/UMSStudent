@@ -31,6 +31,8 @@ function loadStyle(href, callback) {
   }
 }
 
+
+
 /* 02. Theme Selector, Layout Direction And Initializer */
 (function ($) {
   if ($().dropzone) {
